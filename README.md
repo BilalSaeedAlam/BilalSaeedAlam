@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @BilalSaeedAlam having 7+ years of experience leading design, development, and delivering including complex, large-scale, and global projects for leading organizations including IT processes and transformations.
-Professionally, I worked for Asia’s largest Real Estate organization, property builders, Product companies and software houses. I have also assisted some of the Software Houses in their establishment, growth, and development.     
-Driven professional with broad technical skill set. Known for ability to multitask and juggle multiple pressing projects simultaneously, meeting all deadlines. Thrives in environments that constantly embrace new technologies. 
-- 👀 I’m interested in working with latest tools and technologies like Python, AI, Blockchain & Augmented Reality.   
-- 🌱 I’m currently working as Software Engineer.
+- 👋 Hi, I’m @BilalSaeedAlam, with over 7 years of experience, I specialize in developing and delivering innovative solutions using modern technologies like Node.js, Next.js, React, Express.js, and MongoDB. My expertise extends to blockchain integration, NFT marketplaces, smart contracts, and crypto wallets, leveraging tools like Ethers.js, Web3.js, Quick Node, and Infura. I have a strong track record of building scalable applications, Shopify embedded solutions, and API integrations, while also ensuring seamless deployment through platforms like Docker, Google Cloud, and Vercel. My ability to design user-friendly interfaces with frameworks such as React Material Design and SASS makes me a versatile developer with a passion for cutting-edge technology.
+
+I thrive in high-pressure environments, managing multiple projects while meeting tight deadlines with precision and attention to detail. Known for my analytical mindset and proactive approach, I excel at fostering collaboration and mentoring teams to achieve project goals. As a reliable and innovative problem-solver, I value clear communication, adaptability, and delivering impactful solutions that exceed expectations.
 - 📫 How to reach me bilalsaeedalam1@gmail.com or https://twitter.com/BilalSaeedAlam
 
 <!---
